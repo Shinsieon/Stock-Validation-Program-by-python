@@ -1,5 +1,6 @@
-# Evalstock: 주식 종목 가치평가 프로그램
-![image](https://user-images.githubusercontent.com/56333934/118797411-85f77a80-b8d7-11eb-8ed1-b93c22195316.png)
+# Evalstock
+## <주식 종목 가치평가 프로그램>
+<img src="https://user-images.githubusercontent.com/56333934/118797411-85f77a80-b8d7-11eb-8ed1-b93c22195316.png" width="300" height="300">
 
 > 이 도서에서는 모멘텀 투자보다는 가치투자의 관점에서 투자의 방향을 이야기한다. 이론으로 정리된 가치 평가 방식을 파이썬을 활용하여 직접 개발해보았다.
 
