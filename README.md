@@ -1,4 +1,3 @@
-# Evalstock
 ## <주식 종목 가치평가 프로그램>
 <img src="https://user-images.githubusercontent.com/56333934/118797411-85f77a80-b8d7-11eb-8ed1-b93c22195316.png" width="300" height="300">
 
